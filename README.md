@@ -6,5 +6,3 @@ The following snippets are of breast malignant tumor:
   <img src="https://web.inf.ufpr.br/vri/wp-content/uploads/sites/7/2017/06/Screen-Shot-2017-06-20-at-09.58.29.png"/>
 </p>
 
-
-Repo will get updated soon!
